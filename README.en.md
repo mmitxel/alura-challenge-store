@@ -33,8 +33,8 @@ The goal is to identify the **least efficient store** and present a **data-drive
 
 - **Google Colab (Jupyter Notebooks)**
 - **Python**
->- Pandas  
->- Matplotlib
+  - Pandas  
+  - Matplotlib
 - **Trello**
 
 ---
@@ -54,6 +54,14 @@ An analysis of metrics from the four stores was conducted to determine which one
 Both sales and customer satisfaction variables were evaluated, along with those that influence commercial strategies.
 
 Store **number four** showed a clear **disadvantage** compared to the others due to its **lower profitability**, despite having some strategic advantages.
+
+#### 🔍 Key Insights
+- Store #4 generates **6–11% less revenue** than others despite lower shipping costs.
+- Product category mix differs, complicating unified marketing strategies.
+- All stores have similar customer ratings (~4.0/5).
+- **Recommendation:** Sell Store #4.
+
+### 📋 Analysis
 
 ### 🔹 Total Revenue
 
