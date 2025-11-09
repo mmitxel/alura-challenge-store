@@ -55,6 +55,14 @@ Se analizaron tanto las variables de ventas y satisfacción de clientes, como aq
 
 Se descubrió que la **Tienda 4** muestra una clara **desventaja** respecto a las demás, por su **menor rentabilidad**, a pesar de contar con ventajas estratégicas:
 
+#### 🔍 Descubrimientos Clave
+- La tienda #4 genera un **6 a 11% menos ingresos** que las otras, a pesar de tener menores costos de envío.
+- Sus categorías de productos más vendidos difieren, lo cual complica las estrategias de marketing unificadas.
+- Todas las tiendas tienen similar satisfacción de clientes (~4.0/5).
+- **Recomendaci+on:** Vender la Tienda #4.
+
+### 📋 Análisis
+
 ### 🔹 Facturación total
 
 Su **facturación** es significativamente menor que la de las otras tiendas:  
